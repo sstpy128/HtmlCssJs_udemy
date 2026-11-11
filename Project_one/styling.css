@@ -1,0 +1,22 @@
+/* 1. Style the main page background and default text */
+body {
+  background-color: #f0f4f8;
+  font-family: Arial, sans-serif;
+  color: #333333;
+  margin: 0;
+  padding: 20px;
+}
+
+/* 2. Style main headings */
+h1 {
+  color: #0056b3;
+  text-align: center;
+}
+
+/* 3. Style paragraphs to make them easier to read */
+p {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  line-height: 1.6;
+  font-size: 16px;
+  text-shadow: #0056b3;
+}
